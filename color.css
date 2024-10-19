@@ -1,0 +1,38 @@
+/* styles.css */
+
+body {
+  background-color: #f0f8ff; /* Light blue background */
+  color: #1e90ff; /* Dodger blue text */
+}
+
+.chat-container {
+  border: 2px solid #1e90ff; /* Border in Dodger blue */
+}
+
+.chat-header {
+  background-color: #1e90ff; /* Header background in Dodger blue */
+  color: #ffffff; /* White text */
+}
+
+.chat-message {
+  background-color: #e6f7ff; /* Very light blue message bubble */
+  border: 1px solid #1e90ff; /* Border for message bubbles */
+}
+
+.chat-input {
+  border: 2px solid #1e90ff; /* Input field border in blue */
+  color: #000080; /* Navy text color */
+}
+
+.button {
+  background-color: #1e90ff; /* Button background */
+  color: white; /* Button text */
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #4169e1; /* Slightly darker blue on hover */
+}
